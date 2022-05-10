@@ -215,7 +215,7 @@ The two additional visualizations suggested for future analysis are as follows -
 
   1. Although it seems like biking is popular in summer months in NYC, further analysis will be needed to be done for the winter months. Just an   analysis for a favorable month is not enough to gauge in the pros and cons of operating the Bike services. I would definitely perform data visualizations for the winter months especially December, January and February.
   
-  2. More details can be added for the bike users such as their address is of a residential place or a hotel or temporary accomodation so that it can be determines if the bike usage is more for the local people or more for tourists like us. It should be also noted that even if a lot of tourists visit the city, not every tourist will be interested in renting a bike. Hence a detailed study need to be done on this aspect as well. This data generated can then be used to compare the usage for Des Moines since it does not get as many visitors as NYC.
+  2. More details can be added for the bike users such as their address is of a residential place or a hotel or temporary accomodation so that it can be determined if the bike usage is more for the local people or more for tourists like us. It should be also noted that even if a lot of tourists visit the city, not every tourist will be interested in renting a bike. Hence a detailed study need to be done on this aspect as well. This data generated can then be used to compare the usage for Des Moines since it does not get as many visitors as NYC.
 
  
 ### References:
